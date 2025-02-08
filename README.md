@@ -9,7 +9,7 @@
 ### 部署依赖
 除了安装必要的pip包 `pip install nest_asyncio gradio aiohttp` 以外，主要依赖：
 1. [Serper](https://serper.dev) API
-2. [Jiana](https://jina.ai) API
+2. [Jina](https://jina.ai) API - 后续尝试是否能用firecrawl替代
 3. 大模型 API（本地<默认>或网络API）
 
 ### 代码分析与提示词
